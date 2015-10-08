@@ -14,15 +14,15 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Computing Thoughts
-tagline:          Bruce Eckel's Programming Blog
-url:              http://bruceeckel.github.io/
+title:            EVIL PAGE
+tagline:          Evil's Programming Blog
+url:              http://emperor1523.github.io/
 paginate:            5
 baseurl:          /
 
 # About/contact
 author:
-  name:           Bruce Eckel
+  name:           Evil
   url:            http://www.mindviewinc.com
-  email:          mindviewinc@gmail.com
+  email:          tonglizhei@gmail.com
 
