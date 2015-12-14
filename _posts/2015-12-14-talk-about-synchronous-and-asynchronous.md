@@ -48,4 +48,4 @@ co works very much like [async functions](https://github.com/tc39/ecmascript-asy
 ## Further reading ##
 -   [Async Functions for ECMAScript](https://github.com/tc39/ecmascript-asyncawait) (ECMAScript proposal)
 -   “[Promises for asynchronous programming](http://exploringjs.com/es6/ch_promises.html)” (chapter in “Exploring ES6”)
-        -   “[Asynchronous programming (background)](http://exploringjs.com/es6/ch_async.html)” (background for the chapter on Promises)
+-   “[Asynchronous programming (background)](http://exploringjs.com/es6/ch_async.html)” (background for the chapter on Promises)
